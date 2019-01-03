@@ -1,0 +1,101 @@
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.Form1.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\bin\Debug\Bestmems.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\bin\Debug\Bestmems.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\bin\Debug\Bestmems.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\obj\Debug\Bestmems.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.xml
+B:\Bestmems\Bestmems\bin\Debug\Bestmems.exe.config
+B:\Bestmems\Bestmems\bin\Debug\Bestmems.exe
+B:\Bestmems\Bestmems\bin\Debug\Bestmems.pdb
+B:\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.dll
+B:\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.xml
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.Form1.resources
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.exe
+B:\Bestmems\Bestmems\obj\Debug\Bestmems.pdb
+B:\Bestmems\Bestmems\bin\Debug\ZedGraph.dll
+C:\Users\Anton\Desktop\Bestmems\Bestmems\bin\Debug\Bestmems.exe.config
+C:\Users\Anton\Desktop\Bestmems\Bestmems\bin\Debug\Bestmems.exe
+C:\Users\Anton\Desktop\Bestmems\Bestmems\bin\Debug\Bestmems.pdb
+C:\Users\Anton\Desktop\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anton\Desktop\Bestmems\Bestmems\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.Form1.resources
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.cache
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.csproj.CopyComplete
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.exe
+C:\Users\Anton\Desktop\Bestmems\Bestmems\obj\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\Bestmems.exe.config
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\Newtonsoft.Json.dll
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\ZedGraph.dll
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\bin\Debug\Newtonsoft.Json.xml
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.Form1.resources
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.4\Bestmems\obj\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\Bestmems.exe.config
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\Newtonsoft.Json.dll
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\ZedGraph.dll
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\bin\Debug\Newtonsoft.Json.xml
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.Form1.resources
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.5\Bestmems\obj\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.exe.config
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.pdb
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\Newtonsoft.Json.dll
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\ZedGraph.dll
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\bin\Debug\Newtonsoft.Json.xml
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.Form1.resources
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.exe
+D:\Anton\Desktop\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.pdb
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.exe.config
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.exe
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\bin\Debug\Bestmems.pdb
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\bin\Debug\Newtonsoft.Json.dll
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\bin\Debug\Newtonsoft.Json.xml
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.Form1.resources
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.exe
+D:\Anton\Desktop\BESTMEMS\Bestmems v0.5_TW\Bestmems\obj\Debug\Bestmems.pdb
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\bin\Debug\Bestmems.exe.config
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\bin\Debug\Bestmems.exe
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\bin\Debug\Bestmems.pdb
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\bin\Debug\Newtonsoft.Json.dll
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\bin\Debug\Newtonsoft.Json.xml
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.csprojResolveAssemblyReference.cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.Form1.resources
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.Properties.Resources.resources
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.csproj.GenerateResource.Cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.csproj.CoreCompileInputs.cache
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.exe
+D:\Anton\Desktop\BESTMEMS\Bestmems v1.0\Bestmems\obj\Debug\Bestmems.pdb
